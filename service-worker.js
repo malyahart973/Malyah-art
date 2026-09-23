@@ -3,7 +3,7 @@
    repli sur le cache si hors-ligne. Incrémentez CACHE_VERSION à chaque
    déploiement pour forcer la mise à jour du cache chez les utilisateurs. */
 
-const CACHE_VERSION = "malyah-art-v3";
+const CACHE_VERSION = "malyah-art-vanilla-v1";
 const APP_SHELL = [
   "./",
   "./index.html",
